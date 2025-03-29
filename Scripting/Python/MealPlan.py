@@ -4,6 +4,14 @@ import difflib
 import tkinter as tk
 from tkinter import messagebox
 
+"""
+This was a college project.
+The concept was our family enjoys cooking and has a decent database of recipes, 
+but we are also indecisive in what what we WANT to cook. 
+This is inteneded to help randomize our options, 
+based on what we have at hand.
+"""
+
 # Function to read recipes from markdown files in the "recipes" directory
 def read_recipes_from_vault():
     recipes = []
