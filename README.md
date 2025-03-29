@@ -15,10 +15,10 @@ Alright, so here's the exciting stuff. I think it may be appropriate to break th
 
 ## Networking
 
-## Scripting
+## [Scripting](https://github.com/Brews-n-Hacks/The_Creds/tree/main/Scripting)
 ### BASH
 
-### Python
+### [Python](https://github.com/Brews-n-Hacks/The_Creds/tree/main/Scripting/Python)
 
 ### Rust
 
