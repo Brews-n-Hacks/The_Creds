@@ -8,5 +8,6 @@ Scripting is like prayer in several ways:
 - The only way to get better is by doing it;
 - Aside from syntax errors, there is no right or wrong way; there's only your way;
 - And by paying attention from how others are doing it, you can improve your elegance over time.
-For Friends Who Need Encouragement, I've done my best to go back through and comment the approximate year my scripts have been written. So, you can take a look at how it's improved over time. 
-Your's will as well.
+## For Friends Who Need Encouragement - 
+I've done my best to go back through and comment the approximate year my scripts have been written. So, you can take a look at how it's improved over time. 
+**Your's will as well.**
