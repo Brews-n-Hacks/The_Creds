@@ -7,7 +7,7 @@ Drawing from these experiences, I bring to the table a unique set of skills. Fro
 
 # Resume 
 Here's a link to my... well, resumes are boring. You can check it out if you're interested, but I think it would be more preferable to dig into my portfolio of projects. I'm constantly learning and digging into new things, so I'm sure there's something for everyone. 
-Oh yeah... here's that [resume][Brews-n-Hacks/The_Creds/Redacted_Resume.pdf].
+Oh yeah... here's that [resume][[Brews-n-Hacks/The_Creds/Redacted_Resume.pdf](https://github.com/Brews-n-Hacks/The_Creds/blob/main/Redacted_Resume.pdf)].
 # Portfolio
 Alright, so here's the exciting stuff. I think it may be appropriate to break this down into categories:
 ## Cloud
